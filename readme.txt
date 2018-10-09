@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 git branch master
 new branch test
 no-ff test
+stash test
